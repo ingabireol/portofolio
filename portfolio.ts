@@ -76,6 +76,19 @@ export const skillsSection: SkillsSectionType = {
           skillName: "Docker",
           iconifyTag: "logos:docker-icon",
         },
+        {
+          skillName: "Java",
+          iconifyTag: "logos:java",
+        },
+        {
+          skillName: "Spring Boot",
+          iconifyTag: "logos:spring",
+        },
+        {
+          skillName: "PostgreSQL",
+          iconifyTag: "logos:postgresql",
+        },
+
       ],
     },
   ],
